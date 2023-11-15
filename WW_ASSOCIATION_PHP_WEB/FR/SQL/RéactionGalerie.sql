@@ -1,0 +1,1 @@
+insert into RéactionGalerie (IDRéactionGalerie,Auteur,DateHeure,Texte,IDGalerie) values (14,'Vincent','20111118105900','<font size=\"1\"><span style=\"font-family:Verdana,Geneva,Arial,Helvetica;\">Vous pouvez aussi réagir aux galeries photos.</span></font><br>',8)

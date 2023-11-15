@@ -1,0 +1,1 @@
+insert into RéactionActualité (IDRéactionActualité,Auteur,DateHeure,Texte,IDActualité) values (19,'Patrick','20111118105800','<font size=\"1\"><span style=\"font-family:Verdana,Geneva,Arial,Helvetica;\">Vous pouvez réagir aux actualités.</span></font><br>',11)

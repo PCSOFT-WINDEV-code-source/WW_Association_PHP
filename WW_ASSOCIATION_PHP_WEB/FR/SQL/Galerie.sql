@@ -1,0 +1,1 @@
+insert into Galerie (IDGalerie,Titre,Descriptif,DateHeure,Auteur,EstPrivée) values (8,'Voici une galerie photo','<font face=\"Verdana,Geneva,Arial,Helvetica\" size=\"2\"><font size=\"2\">Ceci est une galerie où vous pouvez ajouter des photos.</font><br></font>','20110929193200','Administrateur',0)

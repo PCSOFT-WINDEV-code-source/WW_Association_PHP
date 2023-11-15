@@ -1,0 +1,1 @@
+insert into MessageReçu (IDMessageReçu,ObjetMessage,TexteMessage,IDMembre,Expéditeur,AdresseEmail,DateHeure,IDExpéditeur) values (6,'Mémo','<P><FONT face=Verdana,Geneva,Arial,Helvetica><FONT size=2>Penser à poster mon annonce !<BR></FONT></FONT></P>',1,'Administrateur','admin@admin.fr','20110928182600',1)
